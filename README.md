@@ -107,7 +107,7 @@ This project is licensed under the MIT License. Please see the LICENSE file for 
 
 ## Resources and Acknowledgments
 
-- **Creators**: Special thanks to the developers, [Guilherme Soares (guimbreon)](https://github.com/guimbreon) and [Vitoria Correia](https://github.com/vitoriateixeiracorreia), for building this platform.
+- **Creators**: Special thanks to the developers, [Guilherme Soares (gcsoares24)](https://github.com/gcsoares24) and [Vitoria Correia](https://github.com/vitoriateixeiracorreia), for building this platform.
 - **Frameworks & Libraries**: 
   - Bootstrap for stylish UI.
   - Icon libraries for enhanced visuals.
