@@ -118,7 +118,7 @@ Este projeto está licenciado sob a Licença MIT. Consulta o ficheiro LICENSE pa
 
 ## Recursos e Agradecimentos
 
-* **Criadores**: Agradecimento especial aos desenvolvedores [Guilherme Soares (guimbreon)](https://github.com/guimbreon) e [Vitória Correia](https://github.com/vitoriateixeiracorreia) por construírem esta plataforma.
+* **Criadores**: Agradecimento especial aos desenvolvedores [Guilherme Soares (guimbreon)](https://github.com/gcsoares24) e [Vitória Correia](https://github.com/vitoriateixeiracorreia) por construírem esta plataforma.
 * **Frameworks & Bibliotecas**:
 
   * Bootstrap para uma interface moderna.
@@ -132,6 +132,6 @@ Este projeto está licenciado sob a Licença MIT. Consulta o ficheiro LICENSE pa
 Entra em contacto através da plataforma **EcoRide**:
 
 * Escritório Principal: Lisboa, Portugal
-* [Website](https://github.com/guimbreon/EcoRide)
+* [Website](https://github.com/gcsoares24/EcoRide)
 
 Juntos, vamos reduzir a pegada de carbono, uma boleia de cada vez.
